@@ -1,0 +1,22 @@
+{
+  "name": "plethora-atlas-contrib-crypto",
+  "version": "0.1.0",
+  "description": "Cryptocurrency Utilities for Plethora Atlas",
+  "main": "crypto.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostasx/plethora-atlas-contrib-crypto.git"
+  },
+  "author": "kostasx <minaidisk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostasx/plethora-atlas-contrib-crypto/issues"
+  },
+  "homepage": "https://github.com/kostasx/plethora-atlas-contrib-crypto#readme",
+  "dependencies": {
+    "bignumber.js": "^4.1.0",
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "request-promise": "^4.2.2"
+  }
+}
